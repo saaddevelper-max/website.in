@@ -1,2 +1,4 @@
 # website.in
-Learnig git commonds
+Learnig git commands
+<br>
+I am a biggner.
